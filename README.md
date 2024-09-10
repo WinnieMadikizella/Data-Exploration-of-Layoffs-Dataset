@@ -1,1 +1,2 @@
-# Data-Exploration-of-Layoffs-Dataset
+# Exploratory Data Analysis in SQL
+This repository focuses on Exploratory Data Analysis using SQL. The project aims to uncover insights and patterns in datasets through a variety of SQL queries and techniques. Main features include performing data aggregation, identifying trends, and generating summary statistics to understand data distributions and relationships. Hence providing a foundation for more advanced analysis and decision-making.
